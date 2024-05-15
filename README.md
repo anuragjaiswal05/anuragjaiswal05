@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragjaiswal05&label=Profile%20views&color=0e75b6&style=flat" alt="anuragjaiswal05" /> </p>
 
 
-- 🌱 I’m currently learning **web development and photoshop**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **c & c++**
+- 💬 Ask me about **c,c++,java & python**
 
-- 📫 How to reach me **anudita1705@gmail.com**
+- 📫 How to reach me **anuragjaiswal0205@gmail.com**
 
 - ⚡ Fun fact **I think I am a great coder**
 
